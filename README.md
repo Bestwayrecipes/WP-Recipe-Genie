@@ -37,7 +37,7 @@ A user-friendly interface where you can seamlessly add recipe titles, ingredient
 You can also insert internal links (to your existing blog content) and external links (to relevant sources), making each recipe more SEO rich. The interface supports uploading or generating images, giving your recipe posts a professional, visually engaging look. Everything is accessible from one place, eliminating the need to jump between multiple settings or editors making it perfect for beginners and experienced food bloggers alike.
 
 <div align="center">
-  <img src="https://www.nidacademy.org/wp-content/uploads/2025/06/dashboard.png" alt="Recipe Genie Dashboard" width="600"/>
+  <img src="https://www.nidacademy.org/wp-content/uploads/2025/06/dashboard.png" alt="Recipe Genie Dashboard" width="900"/>
 </div>
 
 ### Recipe Generator Settings 
@@ -45,7 +45,7 @@ You can also insert internal links (to your existing blog content) and external 
 You can set default focus and related keywords to streamline your workflow, toggle image generation on or off depending on your content strategy, and control how internal and external links are inserted into your posts. These flexible settings give you full control over the SEO, layout, and visual presentation of your recipes ensuring every post aligns with your brand and audience preferences.
 
 <div align="center">
-  <img src="https://www.nidacademy.org/wp-content/uploads/2025/06/generate.png" alt="Generated Recipe Example" width="600"/>
+  <img src="https://www.nidacademy.org/wp-content/uploads/2025/06/generate.png" alt="Generated Recipe Example" width="900"/>
 </div>
 
 ### Generated Recipes Section
@@ -54,7 +54,7 @@ Your final recipes are polished, professional, and built to perform.
 Each recipe is visually appealing with high quality images, structured for readability, and optimized with focus keywords, related terms, and smart linking. The content is crafted to be both user friendly and search engine friendly, increasing the likelihood of higher rankings in Google and more engagement from readers. Whether you're sharing quick meals or gourmet dishes, your recipes will look great, load fast, and bring more value to your blog.
 
 <div align="center">
-  <img src="https://www.nidacademy.org/wp-content/uploads/2025/06/content.png" alt="Recipe Content Editor" width="600"/>
+  <img src="https://www.nidacademy.org/wp-content/uploads/2025/06/content.png" alt="Recipe Content Editor" width="900"/>
 </div>
 
 ---
