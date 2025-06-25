@@ -81,10 +81,23 @@ This plugin is licensed under the [GNU GENERAL PUBLIC LICENSE](LICENSE).
 
 ---
 
+### 🙌 Support Us  
+If you like this plugin and want to support future development:  
+👉 [nidacademy.org/donation](https://nidacademy.org/donation)
+
+---
+
 ## Author
 
-Created by Nid Academy  
-https://www.nidacademy.org/
+Created by [Nid Academy](https://nidacademy.org)  
+📧 Contact: [info@nidacademy.org](mailto:info@nidacademy.org)
+
+---
+
+### 📱 Follow Us on Social Media  
+- 📸 [Instagram](https://instagram.com/nidacademy_)  
+- 📘 [Facebook](https://facebook.com/nidacademy.org)  
+- 💬 [Join our Discord Community](https://discord.com/invite/EaQBjGHzvu)
 
 ---
 
