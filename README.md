@@ -69,7 +69,7 @@ Your final recipes are visually appealing, SEO-optimized, and easy to read — r
 
 ## License
 
-This plugin is licensed under the [MIT License](LICENSE).
+This plugin is licensed under the [GNU GENERAL PUBLIC LICENSE](LICENSE).
 
 ---
 
