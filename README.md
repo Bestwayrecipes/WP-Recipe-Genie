@@ -33,21 +33,29 @@ No more struggling with SEO or formatting  WP Recipe Genie does the heavy liftin
 
 ### Recipe Genie Dashboard 
 
-A user-friendly interface where you can add recipe titles, ingredients, steps, focus and related keywords, links, and images — all in one place.
+A user-friendly interface where you can seamlessly add recipe titles, ingredients, step-by-step instructions, focus keywords, and related keywords all in one streamlined workflow.
+You can also insert internal links (to your existing blog content) and external links (to relevant sources), making each recipe more SEO rich. The interface supports uploading or generating images, giving your recipe posts a professional, visually engaging look. Everything is accessible from one place, eliminating the need to jump between multiple settings or editors making it perfect for beginners and experienced food bloggers alike.
 
-![Recipe Genie Dashboard](https://www.nidacademy.org/wp-content/uploads/2025/06/dashboard.png)
+<div align="center">
+  <img src="https://www.nidacademy.org/wp-content/uploads/2025/06/dashboard.png" alt="Recipe Genie Dashboard" width="600"/>
+</div>
 
 ### Recipe Generator Settings 
 
-Customize how your recipes are created and displayed. Set default keywords, toggle images on/off, and control link handling to match your blogging style.
+You can set default focus and related keywords to streamline your workflow, toggle image generation on or off depending on your content strategy, and control how internal and external links are inserted into your posts. These flexible settings give you full control over the SEO, layout, and visual presentation of your recipes ensuring every post aligns with your brand and audience preferences.
 
-![Generated Recipe Example](https://www.nidacademy.org/wp-content/uploads/2025/06/generate.png)
+<div align="center">
+  <img src="https://www.nidacademy.org/wp-content/uploads/2025/06/generate.png" alt="Generated Recipe Example" width="600"/>
+</div>
 
 ### Generated Recipes Section
 
-Your final recipes are visually appealing, SEO-optimized, and easy to read — ready to engage your audience and boost your blog’s search rankings.
+Your final recipes are polished, professional, and built to perform.
+Each recipe is visually appealing with high quality images, structured for readability, and optimized with focus keywords, related terms, and smart linking. The content is crafted to be both user friendly and search engine friendly, increasing the likelihood of higher rankings in Google and more engagement from readers. Whether you're sharing quick meals or gourmet dishes, your recipes will look great, load fast, and bring more value to your blog.
 
-![Recipe Content Editor](https://www.nidacademy.org/wp-content/uploads/2025/06/content.png)
+<div align="center">
+  <img src="https://www.nidacademy.org/wp-content/uploads/2025/06/content.png" alt="Recipe Content Editor" width="600"/>
+</div>
 
 ---
 
