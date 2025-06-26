@@ -5,7 +5,12 @@ It saves you time and boosts your search engine rankings by automatically genera
 
 No more struggling with SEO or formatting  WP Recipe Genie does the heavy lifting so you can focus on creating delicious content!
 
----
+## Security
+
+This plugin has been scanned using VirusTotal and is 100% clean  no malware or suspicious files detected.
+<div align="center">
+  <img src="https://www.nidacademy.org/wp-content/uploads/2025/06/Screenshot-2025-06-26-at-14.12.53-scaled.png" alt="Recipe Content Editor" width="900"/>
+</div>
 
 ## Features
 
@@ -70,8 +75,10 @@ Each recipe is visually appealing with high quality images, structured for reada
 
 ## Requirements
 
-- WordPress 5.0 or higher  
+- WordPress 5.0 or higher
 - PHP 7.4 or higher
+- OpenRouter API key (for AI-powered features)
+- FAL AI API key (for image generation)
 
 ---
 
