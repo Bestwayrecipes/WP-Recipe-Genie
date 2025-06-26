@@ -69,7 +69,8 @@ Each recipe is visually appealing with high quality images, structured for reada
 1. Download the plugin ZIP file or clone this repository.
 2. Upload the plugin folder to your WordPress `/wp-content/plugins/` directory.
 3. Activate the plugin through the **Plugins** menu in WordPress.
-4. Access the **Recipe Genie Dashboard** to start creating SEO-optimized recipes!
+4. Add your OpenRouter and FAL AI API keys in the plugin settings.
+5. Access the **Recipe Genie Dashboard** to start creating SEO-optimized recipes!
 
 ---
 
